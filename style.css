@@ -1,0 +1,27 @@
+button {
+	width: 48%;
+	height: 50%;
+	color: black;
+	border-radius: 3px;
+	border: 1px solid black;
+	padding: 5px;
+	display: inline;
+	font-size:16px;
+	margin: 10px;
+}
+#vote1 {
+	background-color: white;
+	border-bottom: 3px solid black;
+}
+#vote1:hover {
+	color: white;
+	background-color: blue;
+}
+#vote2 {
+	background-color: white;
+	border-bottom: 3px solid black;
+}
+#vote2:hover {
+	color: white;
+	background-color: green;
+}
